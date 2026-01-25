@@ -1,1 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
 
+# Env
+.env
+
+# Data outputs
+data/raw/
+data/processed/
+
+# OS
+.DS_Store
